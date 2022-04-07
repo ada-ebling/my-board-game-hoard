@@ -1,0 +1,2081 @@
+{
+  "?xml": {
+    "attr_version": "1.0",
+    "attr_encoding": "utf-8"
+  },
+  "items": {
+    "item": [
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "All About Town: Greater Bangor, ME"
+        },
+        "yearpublished": {
+          "attr_value": "1979"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "80653"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang Box"
+        },
+        "yearpublished": {
+          "attr_value": "1969"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "11861"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Bang i brødskiva"
+        },
+        "yearpublished": {
+          "attr_value": "1994"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "3804"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang It In"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "115004"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Bang on the Spot"
+        },
+        "yearpublished": {
+          "attr_value": "2003"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "18740"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang the Button!!!"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "169637"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!"
+        },
+        "yearpublished": {
+          "attr_value": "2002"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "3955"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang!"
+        },
+        "yearpublished": {
+          "attr_value": "1939"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "32806"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang!"
+        },
+        "yearpublished": {
+          "attr_value": "1956"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "312765"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Bang!"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "76085"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! 10th Anniversary"
+        },
+        "yearpublished": {
+          "attr_value": "2012"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "128666"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! A Fistful of Cards"
+        },
+        "yearpublished": {
+          "attr_value": "2005"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "20237"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Armed & Dangerous"
+        },
+        "yearpublished": {
+          "attr_value": "2017"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "230505"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang! Bang!"
+        },
+        "yearpublished": {
+          "attr_value": "2020"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "322474"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Bloody Mary"
+        },
+        "yearpublished": {
+          "attr_value": "2016"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "217972"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Claus \"The Saint\""
+        },
+        "yearpublished": {
+          "attr_value": "2007"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "63490"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Dodge City"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "9653"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Dodge City with High Noon expansion"
+        },
+        "yearpublished": {
+          "attr_value": "2008"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "147918"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang! Dynamite Box"
+        },
+        "yearpublished": {
+          "attr_value": "2021"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "345203"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Expansion Pack"
+        },
+        "yearpublished": {
+          "attr_value": "2015"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "183275"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Face Off"
+        },
+        "yearpublished": {
+          "attr_value": "2005"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "18954"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Gold Rush"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "107794"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! High Noon"
+        },
+        "yearpublished": {
+          "attr_value": "2003"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "8269"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! High Noon/A Fistful of Cards"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "161953"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Johnny Kisch"
+        },
+        "yearpublished": {
+          "attr_value": "2007"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "57885"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Bullet!"
+        },
+        "yearpublished": {
+          "attr_value": "2007"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "30933"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Dice Game"
+        },
+        "yearpublished": {
+          "attr_value": "2013"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "143741"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Dice Game: Old Saloon"
+        },
+        "yearpublished": {
+          "attr_value": "2016"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "193614"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang! The Dice Game: The Walking Dead"
+        },
+        "yearpublished": {
+          "attr_value": "2015"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "177697"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Dice Game: Undead or Alive"
+        },
+        "yearpublished": {
+          "attr_value": "2019"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "283717"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Duel"
+        },
+        "yearpublished": {
+          "attr_value": "2015"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "182094"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Duel: Renegades"
+        },
+        "yearpublished": {
+          "attr_value": "2019"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "288429"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Valley of Shadows"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "130046"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Bang! Tutti alla corsa dei ricci"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "165999"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Uncle Will"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "60381"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Wild West Show"
+        },
+        "yearpublished": {
+          "attr_value": "2010"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "66508"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang! Zoom!"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "22568"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: Halo"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "164930"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: Halo – Gravity Hammer & Energy Sword"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "178251"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: Heroes of the Storm"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "168752"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: Heroes of the Storm – Frostmourne & Brightwing"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "178252"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: The Walking Dead"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "160567"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: The Walking Dead – Lucille & Katana"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "178253"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: The Walking Dead – We Are the Walking Dead Expansion"
+        },
+        "yearpublished": {
+          "attr_value": "2015"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "176774"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: Velká vlaková loupež"
+        },
+        "yearpublished": {
+          "attr_value": "2021"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "349886"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangaroo"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "228617"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangkok"
+        },
+        "yearpublished": {
+          "attr_value": "2022"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "356749"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangkok Klongs"
+        },
+        "yearpublished": {
+          "attr_value": "2010"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "82424"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangkok Klongs: Dragon Boat expansion"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "134154"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bango"
+        },
+        "yearpublished": {
+          "attr_value": "2003"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "22867"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bango! Bango!"
+        },
+        "yearpublished": {
+          "attr_value": "1965"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "11247"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang"
+        },
+        "yearpublished": {
+          "attr_value": "1995"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "1075"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang"
+        },
+        "yearpublished": {
+          "attr_value": "2018"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "274946"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang 13.7"
+        },
+        "yearpublished": {
+          "attr_value": "2018"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "225526"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Burgers"
+        },
+        "yearpublished": {
+          "attr_value": "2021"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "329654"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Theory Playing Cards"
+        },
+        "yearpublished": {
+          "attr_value": "2012"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "274741"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "The Big Bang Theory: Das geniale Spiel"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "172248"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "The Big Bang Theory: Fact or Fiction Card Game"
+        },
+        "yearpublished": {
+          "attr_value": "2012"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "186074"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "The Big Bang Theory: Fact or Fiction Game"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "115793"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "The Big Bang Theory: For Your Consideration"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "129739"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "The Big Bang Theory: Rock! Paper! Scissors! Lizard! Spock! Dice Game"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "154174"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "The Big Bang Theory: The Party Game"
+        },
+        "yearpublished": {
+          "attr_value": "2012"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "107733"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "The Big Bang Theory: Trivia Party Game"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "226956"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "The Big Bang Theory: Ultimate Genius Party Game"
+        },
+        "yearpublished": {
+          "attr_value": "2013"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "152626"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Boom Bang"
+        },
+        "yearpublished": {
+          "attr_value": "2020"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "298962"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Brain Bang"
+        },
+        "yearpublished": {
+          "attr_value": "2015"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "184783"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big*Bang"
+        },
+        "yearpublished": {
+          "attr_value": "2016"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "209428"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bing Bang Boing Game"
+        },
+        "yearpublished": {
+          "attr_value": "1972"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "84952"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Boom, Bang, Gold"
+        },
+        "yearpublished": {
+          "attr_value": "2017"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "235467"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "De Cao-Bang à Kaboul"
+        },
+        "yearpublished": {
+          "attr_value": "2005"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "89608"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Chief Boom Pat-a-bang"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "165998"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Chitty Chitty Bang Bang"
+        },
+        "yearpublished": {
+          "attr_value": "1968"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "13628"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Chitty Chitty Bang Bang  Movie Quiz"
+        },
+        "yearpublished": {
+          "attr_value": "1968"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "127790"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Chitty Chitty Bang Bang \"Ask For\" Card Game"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "7682"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Chitty Chitty Bang Bang Switcheroo Card Game"
+        },
+        "yearpublished": {
+          "attr_value": "1968"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "200431"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "CLUE: The Big Bang Theory"
+        },
+        "yearpublished": {
+          "attr_value": "2013"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "145578"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Crash, Bang, Wallop!"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "50443"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Death Mesa (fan expansion for BANG!)"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "101522"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Die! Die! Bang!"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "21993"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Epic Spell Wars of the Battle Wizards: Annihilageddon – Gang Bangers Expansion"
+        },
+        "yearpublished": {
+          "attr_value": "2021"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "338091"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Fang Bang"
+        },
+        "yearpublished": {
+          "attr_value": "1967"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "20885"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "The Forest Dragon Bang & Twang"
+        },
+        "yearpublished": {
+          "attr_value": "2018"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "265427"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Geek Out! The Big Bang Theory"
+        },
+        "yearpublished": {
+          "attr_value": "2017"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "214176"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Go & Go Bang Turnier"
+        },
+        "yearpublished": {
+          "attr_value": "-2200"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "188"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Go Bang"
+        },
+        "yearpublished": {
+          "attr_value": "700"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "11929"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Go Bang Plus"
+        },
+        "yearpublished": {
+          "attr_value": "1985"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "46953"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Hadronen: Big Bang kaartspel 1"
+        },
+        "yearpublished": {
+          "attr_value": "2008"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "36724"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Kanga-Banga Roo"
+        },
+        "yearpublished": {
+          "attr_value": "1995"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "15601"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Klatsch Bang"
+        },
+        "yearpublished": {
+          "attr_value": "1993"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "82069"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Klick – Klick – Bäng!"
+        },
+        "yearpublished": {
+          "attr_value": "2017"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "238076"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Monopoly: The Big Bang Theory"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "169713"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "O.K. Corral (fan expansion for BANG!)"
+        },
+        "yearpublished": {
+          "attr_value": "2008"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "143456"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Rock, Paper, Scissors, BANG!"
+        },
+        "yearpublished": {
+          "attr_value": "2013"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "141390"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Siberia / Key West / Bangkok Klongs Expansion"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "115636"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Taffy&#039;s Baubles and Bangles Game"
+        },
+        "yearpublished": {
+          "attr_value": "1964"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "29943"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Top Trumps: Big Bang Theory"
+        },
+        "yearpublished": {
+          "attr_value": "1968"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "7262"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Tri Bang"
+        },
+        "yearpublished": {
+          "attr_value": "1888"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "155710"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Trivial Pursuit: The Big Bang Theory Edition"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "192017"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Tschitti Tschitti Bäng Bäng"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "133425"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Two Rooms and a Bang!"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "165573"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "UNO: The Big Bang Theory"
+        },
+        "yearpublished": {
+          "attr_value": "2012"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "135154"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Urknall: The Big Bang"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "95705"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Weiß Schwarz: BanG Dream! Trial Deck"
+        },
+        "yearpublished": {
+          "attr_value": "2017"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "327370"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Whiz Bang"
+        },
+        "yearpublished": {
+          "attr_value": "2009"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "109690"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Whizz Bing Bang"
+        },
+        "yearpublished": {
+          "attr_value": "2013"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "128016"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Wie is er Bang Voor de Boze Wolf?"
+        },
+        "yearpublished": {
+          "attr_value": "2006"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "24961"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Wrap Cut Bang"
+        },
+        "yearpublished": {
+          "attr_value": "1979"
+        },
+        "attr_type": "boardgame",
+        "attr_id": "68643"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! A Fistful of Cards"
+        },
+        "yearpublished": {
+          "attr_value": "2005"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "20237"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Armed & Dangerous"
+        },
+        "yearpublished": {
+          "attr_value": "2017"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "230505"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Bloody Mary"
+        },
+        "yearpublished": {
+          "attr_value": "2016"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "217972"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Claus \"The Saint\""
+        },
+        "yearpublished": {
+          "attr_value": "2007"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "63490"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Dodge City"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "9653"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Dodge City with High Noon expansion"
+        },
+        "yearpublished": {
+          "attr_value": "2008"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "147918"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Expansion Pack"
+        },
+        "yearpublished": {
+          "attr_value": "2015"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "183275"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Face Off"
+        },
+        "yearpublished": {
+          "attr_value": "2005"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "18954"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Gold Rush"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "107794"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! High Noon"
+        },
+        "yearpublished": {
+          "attr_value": "2003"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "8269"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! High Noon/A Fistful of Cards"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "161953"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Johnny Kisch"
+        },
+        "yearpublished": {
+          "attr_value": "2007"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "57885"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Dice Game: Old Saloon"
+        },
+        "yearpublished": {
+          "attr_value": "2016"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "193614"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Dice Game: Undead or Alive"
+        },
+        "yearpublished": {
+          "attr_value": "2019"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "283717"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Duel: Renegades"
+        },
+        "yearpublished": {
+          "attr_value": "2019"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "288429"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Valley of Shadows"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "130046"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Uncle Will"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "60381"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! Wild West Show"
+        },
+        "yearpublished": {
+          "attr_value": "2010"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "66508"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: Halo – Gravity Hammer & Energy Sword"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "178251"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: Heroes of the Storm – Frostmourne & Brightwing"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "178252"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: The Walking Dead – Lucille & Katana"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "178253"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: The Walking Dead – We Are the Walking Dead Expansion"
+        },
+        "yearpublished": {
+          "attr_value": "2015"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "176774"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!: Velká vlaková loupež"
+        },
+        "yearpublished": {
+          "attr_value": "2021"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "349886"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangkok Klongs: Dragon Boat expansion"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "134154"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Death Mesa (fan expansion for BANG!)"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "101522"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Epic Spell Wars of the Battle Wizards: Annihilageddon – Gang Bangers Expansion"
+        },
+        "yearpublished": {
+          "attr_value": "2021"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "338091"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "O.K. Corral (fan expansion for BANG!)"
+        },
+        "yearpublished": {
+          "attr_value": "2008"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "143456"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Siberia / Key West / Bangkok Klongs Expansion"
+        },
+        "yearpublished": {
+          "attr_value": "2011"
+        },
+        "attr_type": "boardgameexpansion",
+        "attr_id": "115636"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangarang Bonhomie vs. CrimeCo International!"
+        },
+        "attr_type": "rpg",
+        "attr_id": "41610"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Comics"
+        },
+        "attr_type": "rpg",
+        "attr_id": "751"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "200 Word RPG Challenge 2016 Collection"
+        },
+        "yearpublished": {
+          "attr_value": "2016"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "200241"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangarang Bonhomie vs. CrimeCo International!"
+        },
+        "yearpublished": {
+          "attr_value": "2016"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "226866"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangers"
+        },
+        "yearpublished": {
+          "attr_value": "2014"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "153608"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Banging Your Sister-in-law"
+        },
+        "yearpublished": {
+          "attr_value": "2017"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "317595"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangkok 1984"
+        },
+        "yearpublished": {
+          "attr_value": "2010"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "88134"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangkok: Cesspool of the Orient"
+        },
+        "yearpublished": {
+          "attr_value": "1991"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "55045"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Comics"
+        },
+        "yearpublished": {
+          "attr_value": "2006"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "45927"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Ricochet 001: Argentina&#039;s VCTP IFV"
+        },
+        "yearpublished": {
+          "attr_value": "2005"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "73124"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Ricochet Series 2 - Workhorse # 1: HMMWV"
+        },
+        "yearpublished": {
+          "attr_value": "2007"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "73123"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Special Edition: War in Iraq"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66369"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "The Big Bang Theory"
+        },
+        "yearpublished": {
+          "attr_value": "2016"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "226404"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Volume 01"
+        },
+        "yearpublished": {
+          "attr_value": "2003"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66330"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Volume 02"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66331"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Volume 03"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66333"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Volume 04"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66334"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Volume 05: Grenades of the Cold War"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66336"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Volume 06"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66337"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Volume 07: Covert Weapons"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66339"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Volume 08: Soviet Anti-Tank Guided Weapons"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66340"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Volume 09: Weapons in Albenistan"
+        },
+        "yearpublished": {
+          "attr_value": "2005"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66342"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Volume 10: Small Arms from Ricochet"
+        },
+        "yearpublished": {
+          "attr_value": "2005"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66343"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang: Mini-Bang 1 – Extra Material from 2003"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66345"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang: Mini-Bang 2 – Deadliest Weapon Than Never Was"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66346"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang: Mini-Bang 3 – Experimental Weapons"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66347"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang: Mini-Bang 4 – CAWS & Automatic Shotguns"
+        },
+        "yearpublished": {
+          "attr_value": "2004"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66349"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang: Small Arms of Argentina"
+        },
+        "yearpublished": {
+          "attr_value": "2008"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "66352"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Firearms: Bang"
+        },
+        "yearpublished": {
+          "attr_value": "2010"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "90212"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Hideouts & Hoodlums Supplement V: Big Bang Comics"
+        },
+        "yearpublished": {
+          "attr_value": "2015"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "184650"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Inhuman Resources: AUTACs & Bangers"
+        },
+        "yearpublished": {
+          "attr_value": "2018"
+        },
+        "attr_type": "rpgitem",
+        "attr_id": "252007"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "2 Games: Bangkok Knights & The Last Ninja"
+        },
+        "attr_type": "videogame",
+        "attr_id": "193253"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Angry Bangers"
+        },
+        "attr_type": "videogame",
+        "attr_id": "330156"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang Attack"
+        },
+        "attr_type": "videogame",
+        "attr_id": "134749"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG BANG BANG!"
+        },
+        "attr_type": "videogame",
+        "attr_id": "213287"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang Bang Car"
+        },
+        "attr_type": "videogame",
+        "attr_id": "226755"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang Bang Fruit"
+        },
+        "attr_type": "videogame",
+        "attr_id": "241585"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang Bang Fruit 2"
+        },
+        "attr_type": "videogame",
+        "attr_id": "241587"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang Bang Racing"
+        },
+        "attr_type": "videogame",
+        "attr_id": "128394"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BanG Dream! Girls Band Party!"
+        },
+        "attr_type": "videogame",
+        "attr_id": "327335"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG!"
+        },
+        "attr_type": "videogame",
+        "attr_id": "261239"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! 4th of July"
+        },
+        "attr_type": "videogame",
+        "attr_id": "158277"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang! Gunship Elite"
+        },
+        "attr_type": "videogame",
+        "attr_id": "109789"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang! Howdy"
+        },
+        "attr_type": "videogame",
+        "attr_id": "190421"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "BANG! The Card Game"
+        },
+        "attr_type": "videogame",
+        "attr_id": "278646"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bang! the Official Video Game"
+        },
+        "attr_type": "videogame",
+        "attr_id": "90679"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangai-O"
+        },
+        "attr_type": "videogame",
+        "attr_id": "75618"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangai-O HD: Missile Fury"
+        },
+        "attr_type": "videogame",
+        "attr_id": "98248"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangai-O Spirits"
+        },
+        "attr_type": "videogame",
+        "attr_id": "73531"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangers & Mash"
+        },
+        "attr_type": "videogame",
+        "attr_id": "231901"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Bangkok Knights"
+        },
+        "attr_type": "videogame",
+        "attr_id": "113846"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Empire"
+        },
+        "attr_type": "videogame",
+        "attr_id": "207433"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bang Mini"
+        },
+        "attr_type": "videogame",
+        "attr_id": "80328"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Big Bug Bang: Le Retour de Commander Blood"
+        },
+        "attr_type": "videogame",
+        "attr_id": "103538"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Carvalho: Los Pajaros De Bangkok"
+        },
+        "attr_type": "videogame",
+        "attr_id": "126323"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Crash Boom Bang!"
+        },
+        "attr_type": "videogame",
+        "attr_id": "237793"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Dengeki Big Bang!"
+        },
+        "attr_type": "videogame",
+        "attr_id": "82218"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Mobile Legends: Bang Bang"
+        },
+        "attr_type": "videogame",
+        "attr_id": "295400"
+      },
+      {
+        "name": {
+          "attr_type": "alternate",
+          "attr_value": "Nekketsu Kōha Kunio-kun: Bangai Rantō Hen"
+        },
+        "attr_type": "videogame",
+        "attr_id": "132634"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Please Bang My Wife"
+        },
+        "attr_type": "videogame",
+        "attr_id": "270916"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Rabbids Big Bang"
+        },
+        "attr_type": "videogame",
+        "attr_id": "151925"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Ready Steady Bang"
+        },
+        "attr_type": "videogame",
+        "attr_id": "123977"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "Tick Tock Bang Bang"
+        },
+        "attr_type": "videogame",
+        "attr_id": "201882"
+      },
+      {
+        "name": {
+          "attr_type": "primary",
+          "attr_value": "The Tiny Bang Story"
+        },
+        "attr_type": "videogame",
+        "attr_id": "97802"
+      }
+    ],
+    "attr_total": "199",
+    "attr_termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse"
+  }
+}
