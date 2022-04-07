@@ -13,7 +13,7 @@ export function BggSearcher() {
 
   return (
     <>
-      <input type={'text'} value={query} onChange={event => setQuery(event.target.value)} />
+      <input type={'text'} value={query} onChange={event => setQuery(event.target.value)} onKeyUp={event => event.key === 'Enter' && fetchQuery()} />
       <button onClick={fetchQuery}>Search</button>
       {searchResults.map(result => <BggSearchResult {...result} key={result.id} />)}
     </>
