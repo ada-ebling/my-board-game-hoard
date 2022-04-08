@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-board-game-hoard/static/css/main.d53a4012.css",
+    "main.js": "/my-board-game-hoard/static/js/main.aab92443.js",
+    "static/js/787.e168fd35.chunk.js": "/my-board-game-hoard/static/js/787.e168fd35.chunk.js",
+    "index.html": "/my-board-game-hoard/index.html",
+    "main.d53a4012.css.map": "/my-board-game-hoard/static/css/main.d53a4012.css.map",
+    "main.aab92443.js.map": "/my-board-game-hoard/static/js/main.aab92443.js.map",
+    "787.e168fd35.chunk.js.map": "/my-board-game-hoard/static/js/787.e168fd35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d53a4012.css",
+    "static/js/main.aab92443.js"
+  ]
+}
