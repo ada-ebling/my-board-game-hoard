@@ -1,0 +1,749 @@
+{
+  "thumbnail": "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__thumb/img/P-6cf4TEk7ewzrfP9d-8c-TxAY4=/fit-in/200x150/filters:strip_icc()/pic1170986.jpg",
+  "image": "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__original/img/el-4Ilu9DeYunRT3r4TVP8Vy3uk=/0x0/filters:format(jpeg)/pic1170986.jpg",
+  "name": [
+    {
+      "attr_type": "primary",
+      "attr_sortindex": "1",
+      "attr_value": "BANG!"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "2",
+      "attr_value": "¡BANG!"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "Bang!  Duelul Vestului Sălbatic"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "BANG! A vadnyugat játéka!"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "Wanted!"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "Wanted: Dead or Alive"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "Бенг!"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "Бэнг!"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "غرب وحشی"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "砰！"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "碰！"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "뱅!"
+    }
+  ],
+  "description": "\"The Outlaws hunt the Sheriff. The Sheriff hunts the Outlaws. The Renegade plots secretly, ready to take one side or the other. Bullets fly. Who among the gunmen is a Deputy, ready to sacrifice himself for the Sheriff? And who is a merciless Outlaw, willing to kill him? If you want to find out, just draw (your cards)!\" (From back of box)&#10;&#10;The card game BANG! recreates an old-fashioned spaghetti western shoot-out, with each player randomly receiving a Character card to determine special abilities, and a secret Role card to determine their goal.&#10;&#10;Four different Roles are available, each with a unique victory condition:&#10;&#10;     Sheriff - Kill all Outlaws and the Renegade&#10;     Deputy - Protect the Sheriff and kill any Outlaws&#10;     Outlaw - Kill the Sheriff&#10;     Renegade - Be the last person standing&#10;&#10;&#10;A player's Role is kept secret, except for the Sheriff. Character cards are placed face up on table, and also track strength (hand limit) in addition to special ability.&#10;&#10;There are 22 different types of cards in the draw deck. Most common are the BANG! cards, which let you shoot at another player, assuming the target is within \"range\" of your current gun.  The target player can play a \"MISSED!\" card to dodge the shot.  Other cards can provide temporary boosts while in play (for example, different guns to improve your firing range) and special one-time effects to help you or hinder your opponents (such as Beer to restore health, or Barrels to hide behind during a shootout). A horse is useful for keeping your distance from unruly neighbors, while the Winchester can hit a target at range 5. The Gatling is a deadly exception where range doesn't matter: it can only be used once, but targets all other players at the table!&#10;&#10;Information on the cards is displayed using language-independent symbols, and 7 summary/reference cards are included.&#10;&#10;",
+  "yearpublished": {
+    "attr_value": "2002"
+  },
+  "minplayers": {
+    "attr_value": "4"
+  },
+  "maxplayers": {
+    "attr_value": "7"
+  },
+  "poll": [
+    {
+      "results": [
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "1"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "2"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "354"
+            }
+          ],
+          "attr_numplayers": "1"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "1"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "6"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "358"
+            }
+          ],
+          "attr_numplayers": "2"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "3"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "17"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "357"
+            }
+          ],
+          "attr_numplayers": "3"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "11"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "152"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "240"
+            }
+          ],
+          "attr_numplayers": "4"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "137"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "286"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "28"
+            }
+          ],
+          "attr_numplayers": "5"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "179"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "262"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "17"
+            }
+          ],
+          "attr_numplayers": "6"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "319"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "129"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "26"
+            }
+          ],
+          "attr_numplayers": "7"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "36"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "83"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "171"
+            }
+          ],
+          "attr_numplayers": "7+"
+        }
+      ],
+      "attr_name": "suggested_numplayers",
+      "attr_title": "User Suggested Number of Players",
+      "attr_totalvotes": "514"
+    },
+    {
+      "results": {
+        "result": [
+          {
+            "attr_value": "2",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_value": "3",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_value": "4",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_value": "5",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_value": "6",
+            "attr_numvotes": "2"
+          },
+          {
+            "attr_value": "8",
+            "attr_numvotes": "50"
+          },
+          {
+            "attr_value": "10",
+            "attr_numvotes": "55"
+          },
+          {
+            "attr_value": "12",
+            "attr_numvotes": "16"
+          },
+          {
+            "attr_value": "14",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_value": "16",
+            "attr_numvotes": "4"
+          },
+          {
+            "attr_value": "18",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_value": "21 and up",
+            "attr_numvotes": "0"
+          }
+        ]
+      },
+      "attr_name": "suggested_playerage",
+      "attr_title": "User Suggested Player Age",
+      "attr_totalvotes": "127"
+    },
+    {
+      "results": {
+        "result": [
+          {
+            "attr_level": "1",
+            "attr_value": "No necessary in-game text",
+            "attr_numvotes": "10"
+          },
+          {
+            "attr_level": "2",
+            "attr_value": "Some necessary text - easily memorized or small crib sheet",
+            "attr_numvotes": "85"
+          },
+          {
+            "attr_level": "3",
+            "attr_value": "Moderate in-game text - needs crib sheet or paste ups",
+            "attr_numvotes": "27"
+          },
+          {
+            "attr_level": "4",
+            "attr_value": "Extensive use of text - massive conversion needed to be playable",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_level": "5",
+            "attr_value": "Unplayable in another language",
+            "attr_numvotes": "0"
+          }
+        ]
+      },
+      "attr_name": "language_dependence",
+      "attr_title": "Language Dependence",
+      "attr_totalvotes": "122"
+    }
+  ],
+  "playingtime": {
+    "attr_value": "40"
+  },
+  "minplaytime": {
+    "attr_value": "20"
+  },
+  "maxplaytime": {
+    "attr_value": "40"
+  },
+  "minage": {
+    "attr_value": "10"
+  },
+  "link": [
+    {
+      "attr_type": "boardgamecategory",
+      "attr_id": "1055",
+      "attr_value": "American West"
+    },
+    {
+      "attr_type": "boardgamecategory",
+      "attr_id": "1023",
+      "attr_value": "Bluffing"
+    },
+    {
+      "attr_type": "boardgamecategory",
+      "attr_id": "1002",
+      "attr_value": "Card Game"
+    },
+    {
+      "attr_type": "boardgamecategory",
+      "attr_id": "1039",
+      "attr_value": "Deduction"
+    },
+    {
+      "attr_type": "boardgamecategory",
+      "attr_id": "1046",
+      "attr_value": "Fighting"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2040",
+      "attr_value": "Hand Management"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2891",
+      "attr_value": "Hidden Roles"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2871",
+      "attr_value": "Kill Steal"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2685",
+      "attr_value": "Player Elimination"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2686",
+      "attr_value": "Take That"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2019",
+      "attr_value": "Team-Based Game"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2015",
+      "attr_value": "Variable Player Powers"
+    },
+    {
+      "attr_type": "boardgamefamily",
+      "attr_id": "70360",
+      "attr_value": "Digital Implementations: Board Game Arena"
+    },
+    {
+      "attr_type": "boardgamefamily",
+      "attr_id": "3862",
+      "attr_value": "Game: BANG!"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "20237",
+      "attr_value": "BANG! A Fistful of Cards"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "230505",
+      "attr_value": "BANG! Armed & Dangerous"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "217972",
+      "attr_value": "BANG! Bloody Mary"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "63490",
+      "attr_value": "BANG! Claus \"The Saint\""
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "9653",
+      "attr_value": "BANG! Dodge City"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "147918",
+      "attr_value": "BANG! Dodge City with High Noon expansion"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "183275",
+      "attr_value": "BANG! Expansion Pack"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "18954",
+      "attr_value": "BANG! Face Off"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "107794",
+      "attr_value": "BANG! Gold Rush"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "8269",
+      "attr_value": "BANG! High Noon"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "161953",
+      "attr_value": "BANG! High Noon/A Fistful of Cards"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "57885",
+      "attr_value": "BANG! Johnny Kisch"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "130046",
+      "attr_value": "BANG! The Valley of Shadows"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "60381",
+      "attr_value": "BANG! Uncle Will"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "66508",
+      "attr_value": "BANG! Wild West Show"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "349886",
+      "attr_value": "BANG!: Velká vlaková loupež"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "101522",
+      "attr_value": "Death Mesa (fan expansion for BANG!)"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "143456",
+      "attr_value": "O.K. Corral (fan expansion for BANG!)"
+    },
+    {
+      "attr_type": "boardgamecompilation",
+      "attr_id": "128666",
+      "attr_value": "BANG! 10th Anniversary"
+    },
+    {
+      "attr_type": "boardgamecompilation",
+      "attr_id": "345203",
+      "attr_value": "Bang! Dynamite Box"
+    },
+    {
+      "attr_type": "boardgamecompilation",
+      "attr_id": "30933",
+      "attr_value": "BANG! The Bullet!"
+    },
+    {
+      "attr_type": "boardgamecompilation",
+      "attr_id": "153967",
+      "attr_value": "Wanted! Dead or Alive"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "143741",
+      "attr_value": "BANG! The Dice Game"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "182094",
+      "attr_value": "BANG! The Duel"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "164930",
+      "attr_value": "BANG!: Halo"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "168752",
+      "attr_value": "BANG!: Heroes of the Storm"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "160567",
+      "attr_value": "BANG!: The Walking Dead"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "176774",
+      "attr_value": "BANG!: The Walking Dead – We Are the Walking Dead Expansion"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "269564",
+      "attr_value": "Captain Marvel: Secret Skrulls"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "128667",
+      "attr_value": "Samurai Sword"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "156042",
+      "attr_value": "Samurai Sword: Rising Sun"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "319336",
+      "attr_value": "Бэнг! Звёздные Войны"
+    },
+    {
+      "attr_type": "boardgamedesigner",
+      "attr_id": "1581",
+      "attr_value": "Emiliano Sciarra"
+    },
+    {
+      "attr_type": "boardgameartist",
+      "attr_id": "12126",
+      "attr_value": "Stefano de Fazi"
+    },
+    {
+      "attr_type": "boardgameartist",
+      "attr_id": "12119",
+      "attr_value": "Alessandro Pierangelini"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "917",
+      "attr_value": "dV Giochi"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "29",
+      "attr_value": "ABACUSSPIELE"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "4304",
+      "attr_value": "Albi"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "157",
+      "attr_value": "Asmodee"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "9074",
+      "attr_value": "Bard Centrum Gier"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "46980",
+      "attr_value": "Brädspel.se"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "4570",
+      "attr_value": "Crómola"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "2973",
+      "attr_value": "Edge Entertainment"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "8820",
+      "attr_value": "Gém Klub Kft."
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "858",
+      "attr_value": "Grow Jogos e Brinquedos"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "18852",
+      "attr_value": "Hobby World"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "38674",
+      "attr_value": "Inter Hobby Co., Ltd."
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "6214",
+      "attr_value": "Kaissa Chess & Games"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "8291",
+      "attr_value": "Korea Boardgames Co., Ltd."
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "40841",
+      "attr_value": "Land of Beautiful Mind (سرزمین ذهن زیبا)"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "3218",
+      "attr_value": "Lautapelit.fi"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "30399",
+      "attr_value": "Ludicus"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "10",
+      "attr_value": "Mayfair Games"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "49615",
+      "attr_value": "MEEPLE"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "32395",
+      "attr_value": "NeoTroy Games"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "2962",
+      "attr_value": "PS-Games"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "9234",
+      "attr_value": "Swan Panasia Co., Ltd."
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "42",
+      "attr_value": "Tilsit"
+    }
+  ],
+  "statistics": {
+    "ratings": {
+      "usersrated": {
+        "attr_value": "28360"
+      },
+      "average": {
+        "attr_value": "6.50428"
+      },
+      "bayesaverage": {
+        "attr_value": "6.35447"
+      },
+      "ranks": {
+        "rank": [
+          {
+            "attr_type": "subtype",
+            "attr_id": "1",
+            "attr_name": "boardgame",
+            "attr_friendlyname": "Board Game Rank",
+            "attr_value": "1370",
+            "attr_bayesaverage": "6.35447"
+          },
+          {
+            "attr_type": "family",
+            "attr_id": "5498",
+            "attr_name": "partygames",
+            "attr_friendlyname": "Party Game Rank",
+            "attr_value": "176",
+            "attr_bayesaverage": "6.20426"
+          }
+        ]
+      },
+      "stddev": {
+        "attr_value": "1.47798"
+      },
+      "median": {
+        "attr_value": "0"
+      },
+      "owned": {
+        "attr_value": "35143"
+      },
+      "trading": {
+        "attr_value": "1045"
+      },
+      "wanting": {
+        "attr_value": "137"
+      },
+      "wishing": {
+        "attr_value": "1766"
+      },
+      "numcomments": {
+        "attr_value": "6077"
+      },
+      "numweights": {
+        "attr_value": "2165"
+      },
+      "averageweight": {
+        "attr_value": "1.6314"
+      }
+    },
+    "attr_page": "1"
+  },
+  "attr_type": "boardgame",
+  "attr_id": "3955"
+}
