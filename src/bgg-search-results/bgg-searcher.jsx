@@ -2,9 +2,10 @@ import React, { useEffect, useState } from "react";
 import { FetchBggGamesPopularity } from "../bgg-fetcher/fetch-bgg-games-popularity";
 import { FetchBggSearch } from "../bgg-fetcher/fetch-bgg-search";
 import { BggSearchResult } from "./bgg-search-result";
+import styles from './styles.module.css'
 
 
-export function BggSearcher() {
+export function BggSearcher({ addToGameTable }) {
   const [query, setQuery] = useState('');
   const [searchResults, setSearchResults] = useState([]);
   const [gamesPopularity, setGamesPopularity] = useState(new Map());
@@ -35,10 +36,10 @@ export function BggSearcher() {
   }, [gamesPopularity]);
 
   return (
-    <div>
+    <div className={styles['searcher']}>
       <input type={'text'} value={query} onChange={event => setQuery(event.target.value)} onKeyUp={event => event.key === 'Enter' && fetchQuery()} />
       <button onClick={fetchQuery}>Search</button>
-      {searchResults.map(result => <BggSearchResult {...result} key={result.id} />)}
+      {searchResults.map(result => <BggSearchResult {...result} key={result.id} addToGameTable={addToGameTable} />)}
     </div>
   );
 }

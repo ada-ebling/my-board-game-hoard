@@ -1,12 +1,19 @@
+import { useState } from 'react';
 import './App.css';
-import { BggCollectionFetcher } from './bgg-collection-results/bgg-collection-fetcher';
 import { BggSearcher } from './bgg-search-results/bgg-searcher';
+import { GameTable } from './game-table/game-table';
 
 function App() {
+  const [games, setGames] = useState([]);
+
+  function addToGameTable(newGame) {
+    setGames([...games, newGame])
+  }
+
   return (
     <div className="App">
-      <BggCollectionFetcher />
-      <BggSearcher />
+      {games.length === 0 ? <></> : <GameTable gameTable={games} setGameTable={setGames} />}
+      <BggSearcher addToGameTable={addToGameTable}/>
     </div>
   );
 }
