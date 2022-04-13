@@ -1,0 +1,652 @@
+{
+  "thumbnail": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__thumb/img/I1oCwOcGxAOVx2VE2LcXuKWoLvY=/fit-in/200x150/filters:strip_icc()/pic1872452.jpg",
+  "image": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__original/img/vxK08kQAEn5qPbejK2CUTyWOsig=/0x0/filters:format(jpeg)/pic1872452.jpg",
+  "name": [
+    {
+      "attr_type": "primary",
+      "attr_sortindex": "1",
+      "attr_value": "Eldritch Horror"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "5",
+      "attr_value": "Les Contrées de l&#039;horreur"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "Eldritch Horror: Przedwieczna Groza"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "Древний ужас"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "エルドリッチホラー"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "全球惊悚"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "全球驚慄"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "全球驚慄"
+    },
+    {
+      "attr_type": "alternate",
+      "attr_sortindex": "1",
+      "attr_value": "엘드리치 호러"
+    }
+  ],
+  "description": "Across the globe, ancient evil is stirring. Now, you and your trusted circle of colleagues must travel around the world, working against all odds to hold back the approaching horror. Foul monsters, brutal encounters, and obscure mysteries will take you to your limit and beyond. All the while, you and your fellow investigators must unravel the otherworldy mysteries scattered around the globe in order to push back the gathering mayhem that threatens to overwhelm humanity. The end draws near! Do you have the courage to prevent global destruction?&#10;&#10;Eldritch Horror is a co-operative game of terror and adventure in which one to eight players take the roles of globetrotting investigators working to solve mysteries, gather clues, and protect the world from an Ancient One &ndash; that is, an elder being intent on destroying our world. Each Ancient One comes with its own unique decks of Mystery and Research cards, which draw you deeper into the lore surrounding each loathsome creature. Discover the true name of Azathoth or battle Cthulhu on the high seas.&#10;&#10;While the tasks on these Mystery cards (along with the locations of otherworldly gates, menacing monsters, and helpful clues) will often inform both your travel plans and the dangers you confront, you can find adventure anywhere in the world...even where you least expect it. It is during the Encounter Phase of each turn that players resolve combat or, alternatively, build their investigators' personal stories by reading an encounter narrative from one of several types of Encounter cards. You might go head to head with a monster in Istanbul or find yourself in a tough spot with the crime syndicate in a major city. Maybe you will embark on an expedition to the Pyramids or research a clue you uncover in the unnamed wilderness. You may even find your way through a gate and explore a dimension beyond time and space.&#10;&#10;Should you fail an encounter, the cost is steep. If you are fortunate, you will merely incur physical or mental trauma. However, you might also be compelled to take a Condition card, which represents a specific injury or restriction gained throughout your journey, such as a Leg Injury or Amnesia. You could find yourself getting in over your head to acquire assets and receive a Debt condition &ndash; or maybe you'll owe a favor to something far more insidious than a debt collector, and enter into a Dark Pact! Whatever your condition, you would be wise to find a resolution with haste; many conditions have a \"reckoning effect\" which, if triggered, ensure a much more sinister fate.&#10;&#10;All the while, the arrival of the Ancient One approaches. Its malign influence is manifested in Eldritch Horror as you draw Mythos Cards, which govern the appearance of otherworldly gates, fearsome monsters, and other ominous elements. Mythos cards keep your investigators under pressure, introducing new threats, even as the arrival of the Great Old One draws nearer! Since the investigators draw a new Mythos card each round, they're certain to have their hands full battling foul creatures and following up on strange rumors, even as they work to solve their three all-important mysteries.&#10;&#10;With twelve unique investigators, two hundred-fifty tokens, and over three hundred cards, Eldritch Horror presents an epic, world-spanning adventure with each and every game.&#10;&#10;",
+  "yearpublished": {
+    "attr_value": "2013"
+  },
+  "minplayers": {
+    "attr_value": "1"
+  },
+  "maxplayers": {
+    "attr_value": "8"
+  },
+  "poll": [
+    {
+      "results": [
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "77"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "344"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "158"
+            }
+          ],
+          "attr_numplayers": "1"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "155"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "438"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "61"
+            }
+          ],
+          "attr_numplayers": "2"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "157"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "391"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "62"
+            }
+          ],
+          "attr_numplayers": "3"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "521"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "151"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "17"
+            }
+          ],
+          "attr_numplayers": "4"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "71"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "293"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "193"
+            }
+          ],
+          "attr_numplayers": "5"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "58"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "232"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "252"
+            }
+          ],
+          "attr_numplayers": "6"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "5"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "71"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "442"
+            }
+          ],
+          "attr_numplayers": "7"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "10"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "68"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "455"
+            }
+          ],
+          "attr_numplayers": "8"
+        },
+        {
+          "result": [
+            {
+              "attr_value": "Best",
+              "attr_numvotes": "2"
+            },
+            {
+              "attr_value": "Recommended",
+              "attr_numvotes": "4"
+            },
+            {
+              "attr_value": "Not Recommended",
+              "attr_numvotes": "432"
+            }
+          ],
+          "attr_numplayers": "8+"
+        }
+      ],
+      "attr_name": "suggested_numplayers",
+      "attr_title": "User Suggested Number of Players",
+      "attr_totalvotes": "794"
+    },
+    {
+      "results": {
+        "result": [
+          {
+            "attr_value": "2",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_value": "3",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_value": "4",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_value": "5",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_value": "6",
+            "attr_numvotes": "1"
+          },
+          {
+            "attr_value": "8",
+            "attr_numvotes": "3"
+          },
+          {
+            "attr_value": "10",
+            "attr_numvotes": "21"
+          },
+          {
+            "attr_value": "12",
+            "attr_numvotes": "50"
+          },
+          {
+            "attr_value": "14",
+            "attr_numvotes": "83"
+          },
+          {
+            "attr_value": "16",
+            "attr_numvotes": "20"
+          },
+          {
+            "attr_value": "18",
+            "attr_numvotes": "2"
+          },
+          {
+            "attr_value": "21 and up",
+            "attr_numvotes": "1"
+          }
+        ]
+      },
+      "attr_name": "suggested_playerage",
+      "attr_title": "User Suggested Player Age",
+      "attr_totalvotes": "181"
+    },
+    {
+      "results": {
+        "result": [
+          {
+            "attr_level": "1",
+            "attr_value": "No necessary in-game text",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_level": "2",
+            "attr_value": "Some necessary text - easily memorized or small crib sheet",
+            "attr_numvotes": "0"
+          },
+          {
+            "attr_level": "3",
+            "attr_value": "Moderate in-game text - needs crib sheet or paste ups",
+            "attr_numvotes": "3"
+          },
+          {
+            "attr_level": "4",
+            "attr_value": "Extensive use of text - massive conversion needed to be playable",
+            "attr_numvotes": "110"
+          },
+          {
+            "attr_level": "5",
+            "attr_value": "Unplayable in another language",
+            "attr_numvotes": "27"
+          }
+        ]
+      },
+      "attr_name": "language_dependence",
+      "attr_title": "Language Dependence",
+      "attr_totalvotes": "140"
+    }
+  ],
+  "playingtime": {
+    "attr_value": "240"
+  },
+  "minplaytime": {
+    "attr_value": "120"
+  },
+  "maxplaytime": {
+    "attr_value": "240"
+  },
+  "minage": {
+    "attr_value": "14"
+  },
+  "link": [
+    {
+      "attr_type": "boardgamecategory",
+      "attr_id": "1022",
+      "attr_value": "Adventure"
+    },
+    {
+      "attr_type": "boardgamecategory",
+      "attr_id": "1010",
+      "attr_value": "Fantasy"
+    },
+    {
+      "attr_type": "boardgamecategory",
+      "attr_id": "1046",
+      "attr_value": "Fighting"
+    },
+    {
+      "attr_type": "boardgamecategory",
+      "attr_id": "1024",
+      "attr_value": "Horror"
+    },
+    {
+      "attr_type": "boardgamecategory",
+      "attr_id": "1093",
+      "attr_value": "Novel-based"
+    },
+    {
+      "attr_type": "boardgamecategory",
+      "attr_id": "1097",
+      "attr_value": "Travel"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2001",
+      "attr_value": "Action Points"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2023",
+      "attr_value": "Cooperative Game"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2072",
+      "attr_value": "Dice Rolling"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2078",
+      "attr_value": "Point to Point Movement"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2028",
+      "attr_value": "Role Playing"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2819",
+      "attr_value": "Solo / Solitaire Game"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2853",
+      "attr_value": "Stat Check Resolution"
+    },
+    {
+      "attr_type": "boardgamemechanic",
+      "attr_id": "2015",
+      "attr_value": "Variable Player Powers"
+    },
+    {
+      "attr_type": "boardgamefamily",
+      "attr_id": "66335",
+      "attr_value": "Components: Standees"
+    },
+    {
+      "attr_type": "boardgamefamily",
+      "attr_id": "26704",
+      "attr_value": "Game: Eldritch Horror"
+    },
+    {
+      "attr_type": "boardgamefamily",
+      "attr_id": "5666",
+      "attr_value": "Players: Games with Solitaire Rules"
+    },
+    {
+      "attr_type": "boardgamefamily",
+      "attr_id": "4311",
+      "attr_value": "Series: Arkham Horror Files (Fantasy Flight Games)"
+    },
+    {
+      "attr_type": "boardgamefamily",
+      "attr_id": "5141",
+      "attr_value": "Theme: Cthulhu Mythos"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "220913",
+      "attr_value": "Eldritch Horror: Cities in Ruin"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "154842",
+      "attr_value": "Eldritch Horror: Forsaken Lore"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "236930",
+      "attr_value": "Eldritch Horror: Masks of Nyarlathotep"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "164167",
+      "attr_value": "Eldritch Horror: Mountains of Madness"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "197586",
+      "attr_value": "Eldritch Horror: Signs of Carcosa"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "177182",
+      "attr_value": "Eldritch Horror: Strange Remnants"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "209686",
+      "attr_value": "Eldritch Horror: The Dreamlands"
+    },
+    {
+      "attr_type": "boardgameexpansion",
+      "attr_id": "181817",
+      "attr_value": "Eldritch Horror: Under the Pyramids"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "257499",
+      "attr_value": "Arkham Horror (Third Edition)"
+    },
+    {
+      "attr_type": "boardgameimplementation",
+      "attr_id": "15987",
+      "attr_value": "Arkham Horror",
+      "attr_inbound": "true"
+    },
+    {
+      "attr_type": "boardgamedesigner",
+      "attr_id": "6651",
+      "attr_value": "Corey Konieczka"
+    },
+    {
+      "attr_type": "boardgamedesigner",
+      "attr_id": "69718",
+      "attr_value": "Nikki Valens"
+    },
+    {
+      "attr_type": "boardgameartist",
+      "attr_id": "14596",
+      "attr_value": "Anders Finér"
+    },
+    {
+      "attr_type": "boardgameartist",
+      "attr_id": "13115",
+      "attr_value": "David Griffith"
+    },
+    {
+      "attr_type": "boardgameartist",
+      "attr_id": "70695",
+      "attr_value": "Ed Mattinian"
+    },
+    {
+      "attr_type": "boardgameartist",
+      "attr_id": "12065",
+      "attr_value": "Patrick McEvoy"
+    },
+    {
+      "attr_type": "boardgameartist",
+      "attr_id": "46413",
+      "attr_value": "Dallas Mehlhoff"
+    },
+    {
+      "attr_type": "boardgameartist",
+      "attr_id": "69250",
+      "attr_value": "Emilio Rodriguez"
+    },
+    {
+      "attr_type": "boardgameartist",
+      "attr_id": "29809",
+      "attr_value": "Magali Villeneuve"
+    },
+    {
+      "attr_type": "boardgameartist",
+      "attr_id": "50051",
+      "attr_value": "Drew Whitmore"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "17",
+      "attr_value": "Fantasy Flight Games"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "23043",
+      "attr_value": "ADC Blackfire Entertainment"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "3475",
+      "attr_value": "Arclight"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "47848",
+      "attr_value": "Asmodee China"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "6194",
+      "attr_value": "Delta Vision Publishing"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "2973",
+      "attr_value": "Edge Entertainment"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "4617",
+      "attr_value": "Galakta"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "15605",
+      "attr_value": "Galápagos Jogos"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "5530",
+      "attr_value": "Giochi Uniti"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "264",
+      "attr_value": "Heidelberger Spieleverlag"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "18852",
+      "attr_value": "Hobby World"
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "8291",
+      "attr_value": "Korea Boardgames Co., Ltd."
+    },
+    {
+      "attr_type": "boardgamepublisher",
+      "attr_id": "8759",
+      "attr_value": "Wargames Club Publishing"
+    }
+  ],
+  "statistics": {
+    "ratings": {
+      "usersrated": {
+        "attr_value": "32171"
+      },
+      "average": {
+        "attr_value": "7.7781"
+      },
+      "bayesaverage": {
+        "attr_value": "7.54365"
+      },
+      "ranks": {
+        "rank": [
+          {
+            "attr_type": "subtype",
+            "attr_id": "1",
+            "attr_name": "boardgame",
+            "attr_friendlyname": "Board Game Rank",
+            "attr_value": "95",
+            "attr_bayesaverage": "7.54365"
+          },
+          {
+            "attr_type": "family",
+            "attr_id": "5496",
+            "attr_name": "thematic",
+            "attr_friendlyname": "Thematic Rank",
+            "attr_value": "30",
+            "attr_bayesaverage": "7.54038"
+          }
+        ]
+      },
+      "stddev": {
+        "attr_value": "1.52806"
+      },
+      "median": {
+        "attr_value": "0"
+      },
+      "owned": {
+        "attr_value": "47736"
+      },
+      "trading": {
+        "attr_value": "724"
+      },
+      "wanting": {
+        "attr_value": "714"
+      },
+      "wishing": {
+        "attr_value": "8046"
+      },
+      "numcomments": {
+        "attr_value": "5027"
+      },
+      "numweights": {
+        "attr_value": "1560"
+      },
+      "averageweight": {
+        "attr_value": "3.3192"
+      }
+    },
+    "attr_page": "1"
+  },
+  "attr_type": "boardgame",
+  "attr_id": "146021"
+}

@@ -5,12 +5,12 @@ import { BggSearchResult } from "./bgg-search-result";
 import styles from './styles.module.css'
 
 
-export function BggSearcher({ addToGameTable }) {
+export function BggSearcher({ addToGameTable, inGameTable }) {
   const [query, setQuery] = useState('');
   const [searchResults, setSearchResults] = useState([]);
   const [gamesPopularity, setGamesPopularity] = useState(new Map());
   const [isSorting, setSorting] = useState(false);
-  
+
   const fetchQuery = () => {
     setSorting(false);
     FetchBggSearch(query, setSearchResults)
@@ -39,7 +39,12 @@ export function BggSearcher({ addToGameTable }) {
     <div className={styles['searcher']}>
       <input type={'text'} value={query} onChange={event => setQuery(event.target.value)} onKeyUp={event => event.key === 'Enter' && fetchQuery()} />
       <button onClick={fetchQuery}>Search</button>
-      {searchResults.map(result => <BggSearchResult {...result} key={result.id} addToGameTable={addToGameTable} />)}
+      {searchResults.map(result => <BggSearchResult
+        {...result}
+        key={result.id}
+        addToGameTable={addToGameTable}
+        inGameTable={inGameTable}
+      />)}
     </div>
   );
 }
