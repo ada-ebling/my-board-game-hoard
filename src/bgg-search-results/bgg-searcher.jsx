@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { FetchBggGamesPopularity } from "../bgg-fetcher/fetch-bgg-games-popularity";
+import { FetchBggGames } from "../bgg-fetcher/fetch-bgg-games";
 import { FetchBggSearch } from "../bgg-fetcher/fetch-bgg-search";
 import { BggSearchResult } from "./bgg-search-result";
 import styles from './styles.module.css'
@@ -8,39 +8,32 @@ import styles from './styles.module.css'
 export function BggSearcher({ addToGameTable, inGameTable }) {
   const [query, setQuery] = useState('');
   const [searchResults, setSearchResults] = useState([]);
-  const [gamesPopularity, setGamesPopularity] = useState(new Map());
-  const [isSorting, setSorting] = useState(false);
+  const [queryState, setQueryState] = useState('ready');
+  const [displayedGames, _setDisplayedGames] = useState([]);
 
-  const fetchQuery = () => {
-    setSorting(false);
-    FetchBggSearch(query, setSearchResults)
+  function setDisplayedGames(rawGames) {
+    _setDisplayedGames(rawGames.sort((a, b) => b.popularity - a.popularity));
+  }
+
+  const fetchSearchQuery = () => {
+    setSearchResults([]);
+    setQueryState('searching');
+    FetchBggSearch(query, setSearchResults).then(() => setQueryState('searchComplete'))
   };
 
   useEffect(() => {
-    if (isSorting) return;
-    if (searchResults.length === 0) return;
-
-    FetchBggGamesPopularity(searchResults.map(result => result.id), setGamesPopularity);
-  }, [searchResults]);
-
-  useEffect(() => {
-    if (gamesPopularity.size === 0) return;
-
-    function popularitySort(a, b) {
-      return gamesPopularity.get(a.id) <= gamesPopularity.get(b.id);
+    if (queryState === 'searchComplete') {
+      setQueryState('fetching');
+      FetchBggGames(searchResults.map(result => result.id), setDisplayedGames).then(() => setQueryState('retrieved'));
     }
-
-    // have to make a new reference for searchResults
-    setSearchResults([...searchResults.sort(popularitySort)]);
-    setSorting(true);
-  }, [gamesPopularity]);
+  }, [searchResults, queryState, setQueryState])
 
   return (
     <div className={styles['searcher']}>
-      <input type={'text'} value={query} onChange={event => setQuery(event.target.value)} onKeyUp={event => event.key === 'Enter' && fetchQuery()} />
-      <button onClick={fetchQuery}>Search</button>
-      {searchResults.map(result => <BggSearchResult
-        {...result}
+      <input type={'text'} value={query} onChange={event => setQuery(event.target.value)} onKeyUp={event => event.key === 'Enter' && fetchSearchQuery()} />
+      <button onClick={fetchSearchQuery}>Search</button>
+      {displayedGames.map(result => <BggSearchResult
+        result={result}
         key={result.id}
         addToGameTable={addToGameTable}
         inGameTable={inGameTable}

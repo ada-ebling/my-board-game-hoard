@@ -1,22 +1,13 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import './App.css';
-import { FetchBggGames } from './bgg-fetcher/fetch-bgg-games';
 import { BggSearcher } from './bgg-search-results/bgg-searcher';
 import { GameTable } from './game-table/game-table';
 
 function App() {
   const [games, setGames] = useState([]);
-  const [fetchedGame, setFetchedGame] = useState([]);
-
-  useEffect(() => {
-    if (fetchedGame.length === 0) return;
-    const game = fetchedGame[0];
-    setGames([...games, game]);
-    setFetchedGame([]);
-  }, [fetchedGame, games]);
 
   function addToGameTable(newGame) {
-    FetchBggGames([newGame.id], setFetchedGame);
+    setGames([...games, newGame]);
   }
 
   function inGameTable(id) {
